@@ -1,3 +1,11 @@
-person
-billiard ball
-donut
+Zero
+One
+Two
+Three
+Four
+Five
+Six
+Seven
+Eight
+Nine
+Not_Defined
